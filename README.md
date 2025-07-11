@@ -1,7 +1,7 @@
 # 👩🏽‍💻 Alany Rodrigues
 
 ## 💫 Sobre mim:
-Seja bem vindo(a) ao meu perfil! Sou Alany Rodrigues Vieira Martins, tenho 19 anos e estou no 4º período de Sistemas de Informação no IFMG - Campus São João Evangelista. Aqui compartilho um pouco dos meus projetos, atividades, trabalhos e aprendizados no geral.
+Seja bem vindo(a) ao meu perfil! Sou Alany Rodrigues Vieira Martins, tenho 20 anos e estou no 5º período de Sistemas de Informação no IFMG - Campus São João Evangelista. Aqui compartilho um pouco dos meus projetos, atividades, trabalhos e aprendizados no geral.
 
 
 ## 🌐 Redes Sociais:
