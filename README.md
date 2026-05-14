@@ -1,9 +1,6 @@
-# README.md — Perfil GitHub Personalizado
-
-````md
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C9D1D9&center=true&vCenter=true&width=700&lines=Information+Sistems+Student;Frontend+%E2%80%A2+UI%2FUX+%E2%80%A2+Web+Development;Technology+%E2%80%A2+Creativity+%E2%80%A2+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Frontend+%E2%80%A2+UI%2FUX+%E2%80%A2+Web+Development;Technology+%E2%80%A2+Creativity+%E2%80%A2+Innovation" />
 
 </div>
 
