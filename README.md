@@ -14,8 +14,8 @@
 │ $ whoami                                                                     │
 │                                                                              │
 │ ┌──────────────────────────────────────────────────────────────────────────┐ │
-│ │ Alany Rodrigues  • MG, Brasil                                            │ │
-│ │ Bachelor of Science in Information Systems • 7th semester                │ │
+│ │ Alany Rodrigues • São João Evangelista, MG - Brasil                      │ │
+│ │ Bachelor of Science in Information Systems • 7th Semester                │ │
 │ │ Frontend & UI/UX Enthusiast • Technology & Innovation                    │ │                                                
 │ └──────────────────────────────────────────────────────────────────────────┘ │
 │                                                                              │
